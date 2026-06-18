@@ -291,7 +291,7 @@ npm run lint
 
 ## 👨‍💻 Author
 
-**Aqil Kurnia Nizar**
+**Ahmad Aqil Khairun Nadzar**
 
 GitHub: https://github.com/aqilknz
 
